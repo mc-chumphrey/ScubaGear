@@ -23,6 +23,7 @@
 
 # IDE
 /.vscode
+/.vs
 
 # MacOS
 **/.DS_Store
